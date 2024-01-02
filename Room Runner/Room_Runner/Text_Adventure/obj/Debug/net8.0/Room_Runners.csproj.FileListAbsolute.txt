@@ -1,0 +1,14 @@
+C:\Users\luis0\Desktop\Text_Adventure\Text_Adventure\bin\Debug\net8.0\Room_Runners.exe
+C:\Users\luis0\Desktop\Text_Adventure\Text_Adventure\bin\Debug\net8.0\Room_Runners.deps.json
+C:\Users\luis0\Desktop\Text_Adventure\Text_Adventure\bin\Debug\net8.0\Room_Runners.runtimeconfig.json
+C:\Users\luis0\Desktop\Text_Adventure\Text_Adventure\bin\Debug\net8.0\Room_Runners.dll
+C:\Users\luis0\Desktop\Text_Adventure\Text_Adventure\bin\Debug\net8.0\Room_Runners.pdb
+C:\Users\luis0\Desktop\Text_Adventure\Text_Adventure\obj\Debug\net8.0\Room_Runners.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis0\Desktop\Text_Adventure\Text_Adventure\obj\Debug\net8.0\Room_Runners.AssemblyInfoInputs.cache
+C:\Users\luis0\Desktop\Text_Adventure\Text_Adventure\obj\Debug\net8.0\Room_Runners.AssemblyInfo.cs
+C:\Users\luis0\Desktop\Text_Adventure\Text_Adventure\obj\Debug\net8.0\Room_Runners.csproj.CoreCompileInputs.cache
+C:\Users\luis0\Desktop\Text_Adventure\Text_Adventure\obj\Debug\net8.0\Room_Runners.dll
+C:\Users\luis0\Desktop\Text_Adventure\Text_Adventure\obj\Debug\net8.0\refint\Room_Runners.dll
+C:\Users\luis0\Desktop\Text_Adventure\Text_Adventure\obj\Debug\net8.0\Room_Runners.pdb
+C:\Users\luis0\Desktop\Text_Adventure\Text_Adventure\obj\Debug\net8.0\Room_Runners.genruntimeconfig.cache
+C:\Users\luis0\Desktop\Text_Adventure\Text_Adventure\obj\Debug\net8.0\ref\Room_Runners.dll
