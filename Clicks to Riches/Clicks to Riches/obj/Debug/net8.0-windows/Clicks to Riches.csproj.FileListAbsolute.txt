@@ -1,0 +1,22 @@
+C:\Users\luis0\Desktop\Side Projects\Clicks to Riches\Clicks to Riches\bin\Debug\net8.0-windows\Clicks to Riches.exe
+C:\Users\luis0\Desktop\Side Projects\Clicks to Riches\Clicks to Riches\bin\Debug\net8.0-windows\Clicks to Riches.deps.json
+C:\Users\luis0\Desktop\Side Projects\Clicks to Riches\Clicks to Riches\bin\Debug\net8.0-windows\Clicks to Riches.runtimeconfig.json
+C:\Users\luis0\Desktop\Side Projects\Clicks to Riches\Clicks to Riches\bin\Debug\net8.0-windows\Clicks to Riches.dll
+C:\Users\luis0\Desktop\Side Projects\Clicks to Riches\Clicks to Riches\bin\Debug\net8.0-windows\Clicks to Riches.pdb
+C:\Users\luis0\Desktop\Side Projects\Clicks to Riches\Clicks to Riches\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\luis0\Desktop\Side Projects\Clicks to Riches\Clicks to Riches\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\luis0\Desktop\Side Projects\Clicks to Riches\Clicks to Riches\obj\Debug\net8.0-windows\Clicks to Riches_MarkupCompile.cache
+C:\Users\luis0\Desktop\Side Projects\Clicks to Riches\Clicks to Riches\obj\Debug\net8.0-windows\Clicks to Riches_MarkupCompile.lref
+C:\Users\luis0\Desktop\Side Projects\Clicks to Riches\Clicks to Riches\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\luis0\Desktop\Side Projects\Clicks to Riches\Clicks to Riches\obj\Debug\net8.0-windows\Clicks to Riches.g.resources
+C:\Users\luis0\Desktop\Side Projects\Clicks to Riches\Clicks to Riches\obj\Debug\net8.0-windows\Clicks to Riches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis0\Desktop\Side Projects\Clicks to Riches\Clicks to Riches\obj\Debug\net8.0-windows\Clicks to Riches.AssemblyInfoInputs.cache
+C:\Users\luis0\Desktop\Side Projects\Clicks to Riches\Clicks to Riches\obj\Debug\net8.0-windows\Clicks to Riches.AssemblyInfo.cs
+C:\Users\luis0\Desktop\Side Projects\Clicks to Riches\Clicks to Riches\obj\Debug\net8.0-windows\Clicks to Riches.csproj.CoreCompileInputs.cache
+C:\Users\luis0\Desktop\Side Projects\Clicks to Riches\Clicks to Riches\obj\Debug\net8.0-windows\Clicks to Riches.dll
+C:\Users\luis0\Desktop\Side Projects\Clicks to Riches\Clicks to Riches\obj\Debug\net8.0-windows\refint\Clicks to Riches.dll
+C:\Users\luis0\Desktop\Side Projects\Clicks to Riches\Clicks to Riches\obj\Debug\net8.0-windows\Clicks to Riches.pdb
+C:\Users\luis0\Desktop\Side Projects\Clicks to Riches\Clicks to Riches\obj\Debug\net8.0-windows\Clicks to Riches.genruntimeconfig.cache
+C:\Users\luis0\Desktop\Side Projects\Clicks to Riches\Clicks to Riches\obj\Debug\net8.0-windows\ref\Clicks to Riches.dll
+C:\Users\luis0\Desktop\Side Projects\Clicks to Riches\Clicks to Riches\obj\Debug\net8.0-windows\Level1.g.cs
+C:\Users\luis0\Desktop\Side Projects\Clicks to Riches\Clicks to Riches\obj\Debug\net8.0-windows\Level1.baml
