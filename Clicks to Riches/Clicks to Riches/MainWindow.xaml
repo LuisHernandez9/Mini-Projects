@@ -1,0 +1,17 @@
+﻿<Window x:Class="Clicks_to_Riches.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Clicks_to_Riches"
+        mc:Ignorable="d"
+        Title="Click to Riches" Height="450" Width="800"
+        WindowState="Maximized">
+
+    <Grid>
+        <TextBlock HorizontalAlignment="Center" Margin="0,71,0,0" TextWrapping="Wrap" Text="Clicks to Riches" VerticalAlignment="Top" FontSize="72" FontFamily="Kristen ITC" FontStyle="Italic" Foreground="#FF1480D4" Grid.Row="1" Grid.ColumnSpan="2"/>
+        <Button Command="{Binding Path=DisplayProductCommand}" Margin="127,189,457,66" Background="Transparent" BorderThickness="0" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}">
+            <Image Source="Assets/images/game images/Sad_Pengwin.png" AutomationProperties.Name="Btn_Start"/>
+        </Button>
+    </Grid>
+</Window>

@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>Clicks_to_Riches</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\images\game images\Sad_Pengwin.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\images\game images\Sad_Pengwin.png" />
+  </ItemGroup>
+
+</Project>
