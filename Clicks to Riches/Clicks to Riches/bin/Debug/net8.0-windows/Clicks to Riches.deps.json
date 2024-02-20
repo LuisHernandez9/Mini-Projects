@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Clicks to Riches/1.0.0": {
+        "runtime": {
+          "Clicks to Riches.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clicks to Riches/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
